@@ -1,12 +1,14 @@
-Package: GeoPressureTemplate
-Title: These are the Goal of my Study (One Line, Title Case)
+Package: LatvianStarling
+Title: Trajectory modeling for European Starlings in Latvia.
 Version: 0.6
 Authors@R: 
     person("Raphaël", "Nussbaumer", , "rafnuss@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-8185-1020"))
-Description: More detailed description of my research objective with my dataset available (one paragraph).
+    person("Martins", "Briedis", , "Martins.Briedis@vogelwarte.ch ", role = c("aut"),
+           comment = c(ORCID = "0000-0002-9434-9056"))
+Description: 
 License: GPL (>= 3)
-URL: https://github.com/Rafnuss/GeoPressureTemplate
+URL: https://github.com/Rafnuss/LatvianStarling
 Depends: 
     R (>= 3.5.0)
 Imports: 
